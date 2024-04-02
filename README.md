@@ -28,6 +28,7 @@ Once you've set up your environment and loaded any necessary data, you can start
 Google Colab typically comes pre-installed with many common Python libraries. However, if your project requires specific dependencies that are not available by default, you can install them using the 
 _!pip install _
 command in a code cell.
+
 Additional Notes:
 Remember to save your notebook regularly to avoid losing your work.
 You can share your Colab notebooks with others for collaboration or to showcase your project.
